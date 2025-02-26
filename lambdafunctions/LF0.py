@@ -38,9 +38,9 @@ def lambda_handler(event, context):
     # ✅ Send user message to Lex
     try:
         lex_response = lex_client.post_text(
-            botName="DiningConceirgeBot",  # ✅ Ensure this matches your Lex V1 bot name
-            botAlias="prod",               # ✅ Ensure this alias exists and is published
-            userId="test-user",             # Can be dynamic (from session, user context, etc.)
+            botName="DiningConceirgeBot",  
+            botAlias="prod",               
+            userId="test-user",             
             inputText=user_message          # User's message
         )
 
