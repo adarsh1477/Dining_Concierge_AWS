@@ -54,8 +54,22 @@ Dining_Concierge_AWS/ ├── Frontend/ ├── lambdaFunctions/ │ ├─�
   "DiningTime": "7:00 PM",
   "NumPeople": "2",
   "Email": "user@example.com"
-}
+} 
 
+📬 Email Format
+Subject: 🍽️ Your Dining Concierge Recommendation
+
+Hello! Here are your top Indian restaurant suggestions in New York:
+
+Biryani Express
+📍 123 Curry St, NY
+⭐ 4.5 | 📝 230 Reviews
+
+Enjoy your meal!
+
+👨‍💻 Author
+Adarsh Rai – Graduate Student, NYU
+GitHub: adarsh1477
 
 
 
