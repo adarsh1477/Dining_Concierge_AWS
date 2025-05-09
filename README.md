@@ -4,7 +4,8 @@ A cloud-based, end-to-end restaurant recommendation system powered by AWS and Ye
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/06G1C8sMCUI/maxresdefault.jpg)]
+[![Watch the demo](https://img.youtube.com/vi/06G1C8sMCUI/maxresdefault.jpg)](https://youtu.be/06G1C8sMCUI)
+
 ---
 
 ## 🚀 Architecture Overview
