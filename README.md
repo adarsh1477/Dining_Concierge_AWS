@@ -2,6 +2,9 @@
 
 A cloud-based, end-to-end restaurant recommendation system powered by AWS and Yelp API. Users interact with a Lex chatbot to specify preferences, and receive dining suggestions via email.
 
+## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/06G1C8sMCUI/maxresdefault.jpg)]
 ---
 
 ## 🚀 Architecture Overview
